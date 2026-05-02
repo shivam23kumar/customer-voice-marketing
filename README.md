@@ -6,6 +6,8 @@ Built as a thin marketing layer on top of Anthropic's official [Brand Voice](htt
 
 ## What it does
 
+![How it works](./customer-voice-marketing-flow.png)
+
 - Drafts ad copy and email campaigns in your brand voice, on demand.
 - Pulls fresh customer language from your chat tool, call recordings, docs, and support inbox every time it drafts copy. So this week's campaign reflects this week's customer conversations — not last quarter's brand bible.
 - Shows you the receipts. Every draft cites the customer quotes and themes it was grounded in. No fabrication.
