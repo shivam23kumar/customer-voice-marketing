@@ -1,0 +1,17 @@
+{
+  "name": "customer-voice-marketing",
+  "version": "0.1.0",
+  "description": "Open-source Cowork plugin that drafts ad copy and email campaigns in your brand voice, grounded in real customer language pulled fresh from your team's tools.",
+  "author": {
+    "name": "Shiv"
+  },
+  "keywords": [
+    "marketing",
+    "copywriting",
+    "brand-voice",
+    "ad-copy",
+    "email-campaign",
+    "customer-research",
+    "voice-of-customer"
+  ]
+}
